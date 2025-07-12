@@ -312,7 +312,7 @@ textarea::placeholder {
 	background-color: #BB2440;
 }
 .def-btn {
-	background-color: #132a13;
+	background-color: #4f772d;
 	padding: 15px 45px;
 	display: inline-block;
 	transition: background-color 0.35s ease;
@@ -595,7 +595,7 @@ textarea::placeholder {
 
 /* Numbers START */
 .s-numbers {
-	background-color: #132a13;
+	background-color: #132A13;
 	color: #fff;
 	padding: 72px 0;
 }
@@ -617,6 +617,7 @@ textarea::placeholder {
 	grid-template-columns: repeat(2, 300px);
 	row-gap: 60px;
 	text-align: center;
+	color: #90a955	;
 }
 .numbers-num {
 	font-size: 52px;
@@ -626,6 +627,7 @@ textarea::placeholder {
 }
 .numbers-desc {
 	font-weight: 300;
+	color: #f4f4f4;
 }
 /* Numbers END */
 
