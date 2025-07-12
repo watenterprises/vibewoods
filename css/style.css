@@ -617,7 +617,7 @@ textarea::placeholder {
 	grid-template-columns: repeat(2, 300px);
 	row-gap: 60px;
 	text-align: center;
-	color: #4f772d	;
+	color: #90a955	;
 }
 .numbers-num {
 	font-size: 52px;
